@@ -1,2 +1,2 @@
 # Sanbercode_DataScience
- Repo for my sanbercode D.S. project
+ This will be my repository of Sanbercode dataset. Feel free to enhance your knowledge by utilizing this data. Cheers!
